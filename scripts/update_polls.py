@@ -276,7 +276,7 @@ def main():
         print("Dry run: nothing written.")
     else:
         with POLLS.open("w", encoding="utf-8", newline="") as f:
-            w = csv.DictWriter(f, fieldnames=FIELDS)
+            w = csv.DictWriter(f, fieldnames=FIELDS, lineterminator="\n")
             w.writeheader()
             w.writerows(rows)
         META.write_text(json.dumps({
