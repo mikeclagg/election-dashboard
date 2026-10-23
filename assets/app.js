@@ -36,8 +36,9 @@
 
   // When embedded in an iframe, tell the host page our height so it can size the frame to fit.
   if (window.parent !== window && 'ResizeObserver' in window) {
+    // Measure the content, not the document: inside a frame the document is at least as tall as the frame.
     new ResizeObserver(() => {
-      window.parent.postMessage({ type: 'election-dashboard:height', height: document.documentElement.scrollHeight }, '*');
+      window.parent.postMessage({ type: 'election-dashboard:height', height: Math.ceil(document.body.getBoundingClientRect().height) }, '*');
     }).observe(document.body);
   }
 
