@@ -1,0 +1,43 @@
+name: Update polls
+
+on:
+  schedule:
+    # 10:00 UTC daily: 6 AM Eastern until Nov 1, 5 AM Eastern after clocks change.
+    - cron: "0 10 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-updates
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Refresh polls from Wikipedia
+        run: python scripts/update_polls.py
+        env:
+          POLL_UPDATER_CONTACT: ${{ vars.POLL_UPDATER_CONTACT }}
+
+      - name: Commit updated data
+        run: |
+          git add data/polls.csv data/meta.json
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update polls $(date -u +%Y-%m-%d)"
+          git push

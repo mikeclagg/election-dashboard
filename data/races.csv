@@ -1,0 +1,8 @@
+race_id,state,state_name,office,race_name,seat_note,dem_candidate,rep_candidate,incumbent,prev_year,prev_dem_pct,prev_rep_pct,prev_matchup,first_close_et,last_close_et,sort,wiki_article
+TX-SEN,TX,Texas,U.S. Senate,Texas Senate,Open seat · R-held,James Talarico,Ken Paxton,,2020,43.9,53.5,Cornyn def. Hegar,8 PM,9 PM,1,2026_United_States_Senate_election_in_Texas
+TX-GOV,TX,Texas,Governor,Texas governor,Incumbent R,Gina Hinojosa,Greg Abbott,rep,2022,43.9,54.8,Abbott def. O'Rourke,8 PM,9 PM,2,2026_Texas_gubernatorial_election
+MI-SEN,MI,Michigan,U.S. Senate,Michigan Senate,Open seat · D-held,Abdul El-Sayed,Mike Rogers,,2020,49.9,48.2,Peters def. James,8 PM,9 PM,3,2026_United_States_Senate_election_in_Michigan
+MI-GOV,MI,Michigan,Governor,Michigan governor,Open seat · D-held,Jocelyn Benson,John James,,2022,54.5,43.9,Whitmer def. Dixon,8 PM,9 PM,4,2026_Michigan_gubernatorial_election
+AZ-GOV,AZ,Arizona,Governor,Arizona governor,Incumbent D,Katie Hobbs,Andy Biggs,dem,2022,50.3,49.7,Hobbs def. Lake,9 PM,9 PM,5,2026_Arizona_gubernatorial_election
+FL-GOV,FL,Florida,Governor,Florida governor,Open seat · R-held,David Jolly,Byron Donalds,,2022,40.0,59.4,DeSantis def. Crist,7 PM,8 PM,6,2026_Florida_gubernatorial_election
+FL-SEN,FL,Florida,U.S. Senate (special),Florida Senate,Appointed incumbent R,Angie Nixon,Ashley Moody,rep,2022,41.3,57.7,Rubio def. Demings,7 PM,8 PM,7,2026_United_States_Senate_special_election_in_Florida

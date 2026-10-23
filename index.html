@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>2026 Midterms: TX, MI, AZ, FL</title>
+  <meta name="description" content="Polling averages and election-night results for the top 2026 statewide races in Texas, Michigan, Arizona and Florida.">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <main class="ed">
+    <header class="ed-head">
+      <div class="ed-eyebrow"><span>General election · Tuesday, Nov 3, 2026</span><span class="ed-count" id="ed-countdown"></span></div>
+      <h1 class="ed-title">2026 Midterms: Texas, Michigan, Arizona, Florida</h1>
+      <p class="ed-takeaway" id="ed-takeaway">Loading the latest polls…</p>
+    </header>
+
+    <div class="ed-controls">
+      <nav class="ed-chips" id="ed-states" aria-label="Filter by state">
+        <button type="button" class="ed-chip" data-state="ALL" aria-pressed="true">All states</button>
+        <button type="button" class="ed-chip" data-state="TX" aria-pressed="false">Texas</button>
+        <button type="button" class="ed-chip" data-state="MI" aria-pressed="false">Michigan</button>
+        <button type="button" class="ed-chip" data-state="AZ" aria-pressed="false">Arizona</button>
+        <button type="button" class="ed-chip" data-state="FL" aria-pressed="false">Florida</button>
+      </nav>
+      <div class="ed-seg" id="ed-pop" role="group" aria-label="Which polls to count">
+        <button type="button" data-pop="all" aria-pressed="true">All polls</button>
+        <button type="button" data-pop="LV" aria-pressed="false">Likely voters</button>
+        <button type="button" data-pop="RV" aria-pressed="false">Registered voters</button>
+      </div>
+    </div>
+
+    <section class="ed-section" aria-labelledby="ed-races-h">
+      <div>
+        <h2 class="ed-h2" id="ed-races-h">Top statewide races</h2>
+        <p class="ed-note">Large numbers are the October polling average (mean of every poll ending Oct 1 or later) until returns arrive, then the share of votes counted. Select a race to see its polls. Arizona has no U.S. Senate seat up this year.</p>
+      </div>
+      <div class="ed-grid" id="ed-races" aria-live="polite"></div>
+    </section>
+
+    <section class="ed-section" id="ed-detail">
+      <div class="ed-card">
+        <h2 class="ed-h2" id="ed-trend-title">Polling margin</h2>
+        <p class="ed-note" id="ed-trend-note">Each dot is one poll's margin. The line is the average of the five most recent polls at each point.</p>
+        <div class="ed-legend">
+          <span><i class="ed-sw ed-sw-d"></i>Poll, Democrat ahead</span>
+          <span><i class="ed-sw ed-sw-r"></i>Poll, Republican ahead</span>
+          <span><i class="ed-sw-line"></i>5-poll average</span>
+        </div>
+        <div class="ed-chart" id="ed-trend"></div>
+      </div>
+      <div class="ed-card">
+        <h2 class="ed-h2" id="ed-polls-title">Polls</h2>
+        <p class="ed-note">Newest first. LV is likely voters, RV registered voters. Rows marked on the left count toward the October average.</p>
+        <div class="ed-tablebox">
+          <table class="ed-table" id="ed-polls">
+            <thead><tr>
+              <th scope="col">Pollster</th>
+              <th scope="col">Field end</th>
+              <th scope="col" class="ed-hide-narrow">Group</th>
+              <th scope="col" class="ed-num ed-hide-narrow">Sample</th>
+              <th scope="col" class="ed-num" id="ed-th-d">Dem %</th>
+              <th scope="col" class="ed-num" id="ed-th-r">Rep %</th>
+              <th scope="col" class="ed-num">Margin</th>
+            </tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <footer class="ed-foot" id="ed-foot">
+      <p id="ed-updated"></p>
+      <p>Polls: <span id="ed-sources">Wikipedia contributors</span>, used under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Previous results are certified totals. Returns: state election offices.</p>
+    </footer>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
