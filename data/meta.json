@@ -1,34 +1,26 @@
 {
-  "polls_checked_at": "2026-10-23T11:07:16+00:00",
+  "polls_checked_at": "2026-10-23T11:27:23+00:00",
   "polls_source": "Wikipedia general-election polling tables (CC BY-SA 4.0)",
   "races": {
     "TX-SEN": {
       "status": "updated",
       "polls": 41,
-      "new": [
-        "TX-SEN-2026-10-11-marist-university-LV"
-      ]
+      "new": []
     },
     "TX-GOV": {
       "status": "updated",
       "polls": 35,
-      "new": [
-        "TX-GOV-2026-10-11-marist-university-LV"
-      ]
+      "new": []
     },
     "MI-SEN": {
       "status": "updated",
       "polls": 40,
-      "new": [
-        "MI-SEN-2026-10-18-marist-university-LV"
-      ]
+      "new": []
     },
     "MI-GOV": {
       "status": "updated",
       "polls": 24,
-      "new": [
-        "MI-GOV-2026-10-18-marist-university-LV"
-      ]
+      "new": []
     },
     "AZ-GOV": {
       "status": "updated",
