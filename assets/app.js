@@ -30,8 +30,20 @@
     pop: POP[qs.get('pop')] ? qs.get('pop') : 'all',
     race: qs.get('race') || 'TX-SEN',
   };
+  // ?theme=light or ?theme=dark pins the look (useful when embedded); otherwise it follows the reader's system.
+  const theme = ['light', 'dark'].includes(qs.get('theme')) ? qs.get('theme') : null;
+  if (theme) document.documentElement.dataset.theme = theme;
+
+  // When embedded in an iframe, tell the host page our height so it can size the frame to fit.
+  if (window.parent !== window && 'ResizeObserver' in window) {
+    new ResizeObserver(() => {
+      window.parent.postMessage({ type: 'election-dashboard:height', height: document.documentElement.scrollHeight }, '*');
+    }).observe(document.body);
+  }
+
   const saveState = () => {
     const p = new URLSearchParams();
+    if (theme) p.set('theme', theme);
     if (state.filter !== 'ALL') p.set('state', state.filter);
     if (state.pop !== 'all') p.set('pop', state.pop);
     p.set('race', state.race);

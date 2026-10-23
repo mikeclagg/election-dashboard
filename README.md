@@ -33,8 +33,23 @@ The page uses relative paths, so it works from any folder. Pick one:
 
 - **Copy it into your site**, for example at `/elections/2026/`: copy `index.html`, `assets/` and `data/`.
   To match your site's look, change the tokens at the top of `assets/styles.css`.
-- **Host this repo on its own** (GitHub Pages, Netlify or Cloudflare Pages) and link to it, or embed it in a page:
-  `<iframe src="https://YOUR-HOST/elections/" width="100%" height="1900" style="border:0" title="2026 midterms dashboard"></iframe>`
+- **Embed the hosted copy** from GitHub Pages at https://mikeclagg.github.io/election-dashboard/. The page reports its
+  height to the host page, so the frame grows and shrinks with the content:
+
+  ```html
+  <iframe id="election-dashboard" src="https://mikeclagg.github.io/election-dashboard/"
+    title="2026 midterms: Texas, Michigan, Arizona and Florida" loading="lazy"
+    style="width:100%; height:2300px; border:0; display:block"></iframe>
+  <script>
+    window.addEventListener('message', function (e) {
+      if (e.origin !== 'https://mikeclagg.github.io') return;
+      if (!e.data || e.data.type !== 'election-dashboard:height') return;
+      document.getElementById('election-dashboard').style.height = e.data.height + 'px';
+    });
+  </script>
+  ```
+
+  URL options: `?theme=light` or `?theme=dark` to match your site, `?state=TX`, `?pop=LV` or `?pop=RV`, and `?race=MI-GOV` to open on a race.
 
 With either hosting option, each daily data commit redeploys the site automatically.
 
