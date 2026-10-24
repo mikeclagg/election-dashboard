@@ -1,21 +1,34 @@
 {
-  "polls_checked_at": "2026-10-23T11:27:23+00:00",
+  "polls_checked_at": "2026-10-24T10:02:09+00:00",
   "polls_source": "Wikipedia general-election polling tables (CC BY-SA 4.0)",
   "races": {
     "TX-SEN": {
       "status": "updated",
-      "polls": 41,
-      "new": []
+      "polls": 46,
+      "new": [
+        "TX-SEN-2026-10-18-pollfinity-research-RV",
+        "TX-SEN-2026-10-18-texas-public-opinion-research-d-LV",
+        "TX-SEN-2026-10-20-verasight-votehub-LV",
+        "TX-SEN-2026-10-20-verasight-votehub-RV",
+        "TX-SEN-2026-10-21-rasmussen-reports-LV"
+      ]
     },
     "TX-GOV": {
       "status": "updated",
-      "polls": 35,
-      "new": []
+      "polls": 39,
+      "new": [
+        "TX-GOV-2026-10-18-pollfinity-research-RV",
+        "TX-GOV-2026-10-18-texas-public-opinion-research-LV",
+        "TX-GOV-2026-10-20-verasight-votehub-LV",
+        "TX-GOV-2026-10-20-verasight-votehub-RV"
+      ]
     },
     "MI-SEN": {
       "status": "updated",
-      "polls": 40,
-      "new": []
+      "polls": 41,
+      "new": [
+        "MI-SEN-2026-10-22-insideradvantage-r-LV"
+      ]
     },
     "MI-GOV": {
       "status": "updated",
@@ -24,8 +37,10 @@
     },
     "AZ-GOV": {
       "status": "updated",
-      "polls": 13,
-      "new": []
+      "polls": 14,
+      "new": [
+        "AZ-GOV-2026-10-20-grayhouse-r-LV"
+      ]
     },
     "FL-GOV": {
       "status": "updated",
