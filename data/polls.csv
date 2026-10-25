@@ -1,5 +1,5 @@
 poll_id,race_id,pollster,end_date,population,sample_size,dem_pct,rep_pct,source
-TX-SEN-2026-10-21-rasmussen-reports-LV,TX-SEN,Rasmussen Reports,2026-10-21,LV,965,45,45,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
+TX-SEN-2026-10-21-rasmussen-reports-r-LV,TX-SEN,Rasmussen Reports (R),2026-10-21,LV,965,45,45,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-10-21-activote-LV,TX-SEN,ActiVote,2026-10-21,LV,400,51,49,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-10-20-verasight-votehub-LV,TX-SEN,Verasight/VoteHub,2026-10-20,LV,509,48,45,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-10-20-verasight-votehub-RV,TX-SEN,Verasight/VoteHub,2026-10-20,RV,517,46,45,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
@@ -21,7 +21,7 @@ TX-SEN-2026-10-08-reconmr-siena-university-LV,TX-SEN,ReconMR/ Siena University,2
 TX-SEN-2026-10-05-yougov-LV,TX-SEN,YouGov,2026-10-05,LV,3625,50,44,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-10-05-university-of-texas-texas-politics-proje-LV,TX-SEN,University of Texas /Texas Politics Project,2026-10-05,LV,861,50,47,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-09-30-new-york-times-siena-university-LV,TX-SEN,New York Times / Siena University,2026-09-30,LV,615,51,45,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
-TX-SEN-2026-09-29-rasmussen-reports-LV,TX-SEN,Rasmussen Reports,2026-09-29,LV,1128,46,45,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
+TX-SEN-2026-09-29-rasmussen-reports-r-LV,TX-SEN,Rasmussen Reports (R),2026-09-29,LV,1128,46,45,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-09-28-umass-lowell-yougov-LV,TX-SEN,UMass Lowell / YouGov,2026-09-28,LV,850,45,45,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-09-28-guidant-polling-strategy-r-LV,TX-SEN,Guidant Polling & Strategy (R),2026-09-28,LV,800,47,44,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-09-28-beacon-research-d-shaw-co-research-r-LV,TX-SEN,Beacon Research (D)/ Shaw & Co. Research (R),2026-09-28,LV,881,51,49,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
