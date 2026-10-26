@@ -1,14 +1,11 @@
 {
-  "polls_checked_at": "2026-10-25T10:02:04+00:00",
+  "polls_checked_at": "2026-10-26T10:05:33+00:00",
   "polls_source": "Wikipedia general-election polling tables (CC BY-SA 4.0)",
   "races": {
     "TX-SEN": {
       "status": "updated",
       "polls": 46,
-      "new": [
-        "TX-SEN-2026-09-29-rasmussen-reports-r-LV",
-        "TX-SEN-2026-10-21-rasmussen-reports-r-LV"
-      ]
+      "new": []
     },
     "TX-GOV": {
       "status": "updated",
@@ -17,8 +14,10 @@
     },
     "MI-SEN": {
       "status": "updated",
-      "polls": 41,
-      "new": []
+      "polls": 42,
+      "new": [
+        "MI-SEN-2026-10-23-redbox-research-LV"
+      ]
     },
     "MI-GOV": {
       "status": "updated",
