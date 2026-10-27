@@ -1,11 +1,14 @@
 {
-  "polls_checked_at": "2026-10-26T10:05:33+00:00",
+  "polls_checked_at": "2026-10-27T10:02:07+00:00",
   "polls_source": "Wikipedia general-election polling tables (CC BY-SA 4.0)",
   "races": {
     "TX-SEN": {
       "status": "updated",
       "polls": 46,
-      "new": []
+      "new": [
+        "TX-SEN-2026-09-29-rasmussen-reports-LV",
+        "TX-SEN-2026-10-21-rasmussen-reports-LV"
+      ]
     },
     "TX-GOV": {
       "status": "updated",
@@ -14,15 +17,20 @@
     },
     "MI-SEN": {
       "status": "updated",
-      "polls": 42,
+      "polls": 44,
       "new": [
-        "MI-SEN-2026-10-23-redbox-research-LV"
+        "MI-SEN-2026-10-19-michigan-state-university-yougov-A",
+        "MI-SEN-2026-10-19-michigan-state-university-yougov-LV",
+        "MI-SEN-2026-10-23-redbox-research-d-LV"
       ]
     },
     "MI-GOV": {
       "status": "updated",
-      "polls": 24,
-      "new": []
+      "polls": 26,
+      "new": [
+        "MI-GOV-2026-10-19-michigan-state-university-yougov-A",
+        "MI-GOV-2026-10-19-michigan-state-university-yougov-LV"
+      ]
     },
     "AZ-GOV": {
       "status": "updated",
@@ -31,13 +39,17 @@
     },
     "FL-GOV": {
       "status": "updated",
-      "polls": 18,
-      "new": []
+      "polls": 19,
+      "new": [
+        "FL-GOV-2026-10-23-redbox-research-LV"
+      ]
     },
     "FL-SEN": {
       "status": "updated",
-      "polls": 17,
-      "new": []
+      "polls": 18,
+      "new": [
+        "FL-SEN-2026-10-23-redbox-research-d-LV"
+      ]
     }
   }
 }
