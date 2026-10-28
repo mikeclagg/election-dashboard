@@ -1,54 +1,54 @@
 {
-  "polls_checked_at": "2026-10-27T10:02:07+00:00",
+  "polls_checked_at": "2026-10-28T10:02:03+00:00",
   "polls_source": "Wikipedia general-election polling tables (CC BY-SA 4.0)",
   "races": {
     "TX-SEN": {
-      "status": "updated",
+      "status": "kept previous",
       "polls": 46,
-      "new": [
-        "TX-SEN-2026-09-29-rasmussen-reports-LV",
-        "TX-SEN-2026-10-21-rasmussen-reports-LV"
-      ]
+      "warning": "no polls found in the article's table"
     },
     "TX-GOV": {
       "status": "updated",
-      "polls": 39,
-      "new": []
+      "polls": 40,
+      "new": [
+        "TX-GOV-2026-10-21-univision-yougov-RV"
+      ]
     },
     "MI-SEN": {
       "status": "updated",
-      "polls": 44,
+      "polls": 45,
       "new": [
-        "MI-SEN-2026-10-19-michigan-state-university-yougov-A",
-        "MI-SEN-2026-10-19-michigan-state-university-yougov-LV",
-        "MI-SEN-2026-10-23-redbox-research-d-LV"
+        "MI-SEN-2026-10-22-glengariff-group-LV"
       ]
     },
     "MI-GOV": {
       "status": "updated",
-      "polls": 26,
+      "polls": 27,
       "new": [
-        "MI-GOV-2026-10-19-michigan-state-university-yougov-A",
-        "MI-GOV-2026-10-19-michigan-state-university-yougov-LV"
+        "MI-GOV-2026-10-22-glengariff-group-LV"
       ]
     },
     "AZ-GOV": {
       "status": "updated",
-      "polls": 14,
-      "new": []
+      "polls": 16,
+      "new": [
+        "AZ-GOV-2026-10-23-redbox-research-d-LV",
+        "AZ-GOV-2026-10-25-highground-inc-LV"
+      ]
     },
     "FL-GOV": {
       "status": "updated",
-      "polls": 19,
+      "polls": 20,
       "new": [
-        "FL-GOV-2026-10-23-redbox-research-LV"
+        "FL-GOV-2026-10-23-echelon-insights-r-LV"
       ]
     },
     "FL-SEN": {
       "status": "updated",
-      "polls": 18,
+      "polls": 20,
       "new": [
-        "FL-SEN-2026-10-23-redbox-research-d-LV"
+        "FL-SEN-2026-10-23-echelon-insights-r-LV",
+        "FL-SEN-2026-10-27-activote-LV"
       ]
     }
   }
