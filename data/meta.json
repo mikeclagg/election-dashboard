@@ -1,54 +1,54 @@
 {
-  "polls_checked_at": "2026-10-28T10:02:03+00:00",
+  "polls_checked_at": "2026-10-29T10:02:09+00:00",
   "polls_source": "Wikipedia general-election polling tables (CC BY-SA 4.0)",
   "races": {
     "TX-SEN": {
-      "status": "kept previous",
-      "polls": 46,
-      "warning": "no polls found in the article's table"
+      "status": "updated",
+      "polls": 48,
+      "new": [
+        "TX-SEN-2026-10-21-univision-yougov-RV",
+        "TX-SEN-2026-10-26-yougov-blue-d-RV"
+      ]
     },
     "TX-GOV": {
       "status": "updated",
-      "polls": 40,
+      "polls": 42,
       "new": [
-        "TX-GOV-2026-10-21-univision-yougov-RV"
+        "TX-GOV-2026-10-21-activote-LV",
+        "TX-GOV-2026-10-26-yougov-blue-d-RV"
       ]
     },
     "MI-SEN": {
       "status": "updated",
-      "polls": 45,
+      "polls": 46,
       "new": [
-        "MI-SEN-2026-10-22-glengariff-group-LV"
+        "MI-SEN-2026-10-27-mitchell-research-communications-LV"
       ]
     },
     "MI-GOV": {
       "status": "updated",
       "polls": 27,
-      "new": [
-        "MI-GOV-2026-10-22-glengariff-group-LV"
-      ]
+      "new": []
     },
     "AZ-GOV": {
       "status": "updated",
       "polls": 16,
-      "new": [
-        "AZ-GOV-2026-10-23-redbox-research-d-LV",
-        "AZ-GOV-2026-10-25-highground-inc-LV"
-      ]
+      "new": []
     },
     "FL-GOV": {
       "status": "updated",
-      "polls": 20,
+      "polls": 22,
       "new": [
-        "FL-GOV-2026-10-23-echelon-insights-r-LV"
+        "FL-GOV-2026-10-25-new-york-times-siena-university-LV",
+        "FL-GOV-2026-10-27-st-pete-polls-LV"
       ]
     },
     "FL-SEN": {
       "status": "updated",
-      "polls": 20,
+      "polls": 22,
       "new": [
-        "FL-SEN-2026-10-23-echelon-insights-r-LV",
-        "FL-SEN-2026-10-27-activote-LV"
+        "FL-SEN-2026-10-25-new-york-times-siena-university-LV",
+        "FL-SEN-2026-10-27-st-pete-polls-LV"
       ]
     }
   }
