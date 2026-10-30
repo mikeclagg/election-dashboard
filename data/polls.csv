@@ -1,5 +1,10 @@
 poll_id,race_id,pollster,end_date,population,sample_size,dem_pct,rep_pct,source
+TX-SEN-2026-10-28-quantus-insights-LV,TX-SEN,Quantus Insights,2026-10-28,LV,1221,48,49,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
+TX-SEN-2026-10-28-activote-LV,TX-SEN,ActiVote,2026-10-28,LV,400,52,48,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
+TX-SEN-2026-10-27-ssrs-LV,TX-SEN,SSRS,2026-10-27,LV,923,49,43,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
+TX-SEN-2026-10-27-a2-insights-LV,TX-SEN,A2 Insights,2026-10-27,LV,631,50,47,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-10-26-yougov-blue-d-RV,TX-SEN,YouGov Blue (D),2026-10-26,RV,1000,51,43,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
+TX-SEN-2026-10-25-texas-southern-university-LV,TX-SEN,Texas Southern University,2026-10-25,LV,2000,49,47,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-10-21-univision-yougov-RV,TX-SEN,Univision / YouGov,2026-10-21,RV,1000,50,45,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-10-21-rasmussen-reports-LV,TX-SEN,Rasmussen Reports,2026-10-21,LV,965,45,45,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-10-21-activote-LV,TX-SEN,ActiVote,2026-10-21,LV,400,51,49,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
@@ -11,6 +16,7 @@ TX-SEN-2026-10-19-beacon-research-d-shaw-co-research-r-RV,TX-SEN,Beacon Research
 TX-SEN-2026-10-18-texas-public-opinion-research-d-LV,TX-SEN,Texas Public Opinion Research (D),2026-10-18,LV,969,51,47,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-10-18-pollfinity-research-RV,TX-SEN,Pollfinity Research,2026-10-18,RV,278,48,43,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-10-16-cbs-news-yougov-LV,TX-SEN,CBS News / YouGov,2026-10-16,LV,1492,51,49,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
+TX-SEN-2026-10-15-cor-strategies-r-LV,TX-SEN,Cor Strategies (R),2026-10-15,LV,1409,44,40,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-10-14-university-of-houston-LV,TX-SEN,University of Houston,2026-10-14,LV,2000,48,46,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-10-14-insideradvantage-LV,TX-SEN,InsiderAdvantage,2026-10-14,LV,1200,48,49,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-10-14-activote-LV,TX-SEN,ActiVote,2026-10-14,LV,400,52,48,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
@@ -47,9 +53,11 @@ TX-SEN-2026-08-26-overton-insights-r-LV,TX-SEN,Overton Insights (R),2026-08-26,L
 TX-SEN-2026-08-24-texas-public-opinion-research-d-LV,TX-SEN,Texas Public Opinion Research (D),2026-08-24,LV,1000,48,42,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-08-13-university-of-texas-texas-politics-proje-RV,TX-SEN,University of Texas /Texas Politics Project,2026-08-13,RV,1200,42,39,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
 TX-SEN-2026-08-10-emerson-college-LV,TX-SEN,Emerson College,2026-08-10,LV,1000,46,47,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas
+TX-GOV-2026-10-28-quantus-insights-r-LV,TX-GOV,Quantus Insights (R),2026-10-28,LV,1221,46,51,https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election
+TX-GOV-2026-10-27-ssrs-LV,TX-GOV,SSRS,2026-10-27,LV,923,46,48,https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election
 TX-GOV-2026-10-26-yougov-blue-d-RV,TX-GOV,YouGov Blue (D),2026-10-26,RV,1000,49,46,https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election
+TX-GOV-2026-10-25-texas-southern-university-LV,TX-GOV,Texas Southern University,2026-10-25,LV,2000,47,50,https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election
 TX-GOV-2026-10-21-univision-yougov-RV,TX-GOV,Univision / YouGov,2026-10-21,RV,1000,46,48,https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election
-TX-GOV-2026-10-21-activote-LV,TX-GOV,ActiVote,2026-10-21,LV,400,47.5,52.5,https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election
 TX-GOV-2026-10-20-verasight-votehub-LV,TX-GOV,Verasight/VoteHub,2026-10-20,LV,509,46,48,https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election
 TX-GOV-2026-10-20-verasight-votehub-RV,TX-GOV,Verasight/VoteHub,2026-10-20,RV,517,45,48,https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election
 TX-GOV-2026-10-19-emerson-college-LV,TX-GOV,Emerson College,2026-10-19,LV,1000,45,49,https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election
@@ -89,8 +97,11 @@ TX-GOV-2026-08-24-texas-public-opinion-research-LV,TX-GOV,Texas Public Opinion R
 TX-GOV-2026-08-13-university-of-texas-texas-politics-proje-RV,TX-GOV,University of Texas /Texas Politics Project,2026-08-13,RV,1200,40,45,https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election
 TX-GOV-2026-08-10-emerson-college-LV,TX-GOV,Emerson College,2026-08-10,LV,1000,45,49,https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election
 TX-GOV-2026-08-09-gbao-d-LV,TX-GOV,GBAO (D),2026-08-09,LV,1000,48,49,https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election
+MI-SEN-2026-10-28-upswing-research-d-LV,MI-SEN,Upswing Research (D),2026-10-28,LV,505,50,45,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan
+MI-SEN-2026-10-27-ssrs-LV,MI-SEN,SSRS,2026-10-27,LV,768,49,42,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan
 MI-SEN-2026-10-27-mitchell-research-communications-LV,MI-SEN,Mitchell Research & Communications,2026-10-27,LV,636,51,44,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan
 MI-SEN-2026-10-23-redbox-research-d-LV,MI-SEN,RedBox Research (D),2026-10-23,LV,2696,49,44,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan
+MI-SEN-2026-10-23-michigan-state-university-verasight-LV,MI-SEN,Michigan State University /Verasight,2026-10-23,LV,1383,51,43,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan
 MI-SEN-2026-10-22-insideradvantage-r-LV,MI-SEN,InsiderAdvantage (R),2026-10-22,LV,1200,47,46,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan
 MI-SEN-2026-10-22-glengariff-group-LV,MI-SEN,Glengariff Group,2026-10-22,LV,600,51,45,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan
 MI-SEN-2026-10-19-michigan-state-university-yougov-LV,MI-SEN,Michigan State University / YouGov,2026-10-19,LV,836,48,46,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan
@@ -135,6 +146,8 @@ MI-SEN-2026-08-10-tipp-insights-r-RV,MI-SEN,TIPP Insights (R),2026-08-10,RV,1528
 MI-SEN-2026-08-10-tipp-insights-r-LV,MI-SEN,TIPP Insights (R),2026-08-10,LV,1215,45,42,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan
 MI-SEN-2026-08-10-gbao-d-LV,MI-SEN,GBAO (D),2026-08-10,LV,800,50,44,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan
 MI-SEN-2026-08-10-beacon-research-d-shaw-co-research-r-RV,MI-SEN,Beacon Research (D)/ Shaw & Co. Research (R),2026-08-10,RV,1006,47,51,https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan
+MI-GOV-2026-10-27-ssrs-LV,MI-GOV,SSRS,2026-10-27,LV,768,53,41,https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election
+MI-GOV-2026-10-27-mitchell-research-communications-LV,MI-GOV,Mitchell Research & Communications,2026-10-27,LV,636,49,44,https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election
 MI-GOV-2026-10-22-glengariff-group-LV,MI-GOV,Glengariff Group,2026-10-22,LV,600,51,45,https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election
 MI-GOV-2026-10-19-michigan-state-university-yougov-LV,MI-GOV,Michigan State University / YouGov,2026-10-19,LV,836,52,40,https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election
 MI-GOV-2026-10-19-michigan-state-university-yougov-A,MI-GOV,Michigan State University / YouGov,2026-10-19,A,1000,44,35,https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election
@@ -167,6 +180,7 @@ FL-SEN-2026-10-27-activote-LV,FL-SEN,ActiVote,2026-10-27,LV,400,47,53,https://en
 FL-SEN-2026-10-25-new-york-times-siena-university-LV,FL-SEN,New York Times / Siena University,2026-10-25,LV,813,44,50,https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida
 FL-SEN-2026-10-23-redbox-research-d-LV,FL-SEN,RedBox Research (D),2026-10-23,LV,4832,43,50,https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida
 FL-SEN-2026-10-23-echelon-insights-r-LV,FL-SEN,Echelon Insights (R),2026-10-23,LV,515,43,51,https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida
+FL-SEN-2026-10-22-workbench-strategy-d-LV,FL-SEN,Workbench Strategy (D),2026-10-22,LV,800,47,49,https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida
 FL-SEN-2026-10-20-co-efficient-r-LV,FL-SEN,co/efficient (R),2026-10-20,LV,1014,40,48,https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida
 FL-SEN-2026-10-19-university-of-north-florida-LV,FL-SEN,University of North Florida,2026-10-19,LV,1471,45,49,https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida
 FL-SEN-2026-10-15-univision-yougov-RV,FL-SEN,Univision / YouGov,2026-10-15,RV,825,42,51,https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida
@@ -188,6 +202,7 @@ FL-GOV-2026-10-27-st-pete-polls-LV,FL-GOV,St. Pete Polls,2026-10-27,LV,916,46,48
 FL-GOV-2026-10-25-new-york-times-siena-university-LV,FL-GOV,New York Times / Siena University,2026-10-25,LV,813,44,48,https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election
 FL-GOV-2026-10-23-redbox-research-LV,FL-GOV,RedBox Research,2026-10-23,LV,4832,44,49,https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election
 FL-GOV-2026-10-23-echelon-insights-r-LV,FL-GOV,Echelon Insights (R),2026-10-23,LV,515,44,50,https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election
+FL-GOV-2026-10-22-workbench-strategy-d-LV,FL-GOV,Workbench Strategy (D),2026-10-22,LV,800,48,46,https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election
 FL-GOV-2026-10-20-co-efficient-r-LV,FL-GOV,co/efficient (R),2026-10-20,LV,1014,40,49,https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election
 FL-GOV-2026-10-19-university-of-north-florida-LV,FL-GOV,University of North Florida,2026-10-19,LV,1471,47,49,https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election
 FL-GOV-2026-10-19-activote-LV,FL-GOV,ActiVote,2026-10-19,LV,400,48,52,https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election

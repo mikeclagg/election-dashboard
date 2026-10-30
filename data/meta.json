@@ -1,34 +1,44 @@
 {
-  "polls_checked_at": "2026-10-29T10:02:09+00:00",
+  "polls_checked_at": "2026-10-30T16:18:52+00:00",
   "polls_source": "Wikipedia general-election polling tables (CC BY-SA 4.0)",
   "races": {
     "TX-SEN": {
       "status": "updated",
-      "polls": 48,
+      "polls": 54,
       "new": [
-        "TX-SEN-2026-10-21-univision-yougov-RV",
-        "TX-SEN-2026-10-26-yougov-blue-d-RV"
+        "TX-SEN-2026-10-15-cor-strategies-r-LV",
+        "TX-SEN-2026-10-25-texas-southern-university-LV",
+        "TX-SEN-2026-10-27-a2-insights-LV",
+        "TX-SEN-2026-10-27-ssrs-LV",
+        "TX-SEN-2026-10-28-activote-LV",
+        "TX-SEN-2026-10-28-quantus-insights-LV"
       ]
     },
     "TX-GOV": {
       "status": "updated",
-      "polls": 42,
+      "polls": 44,
       "new": [
-        "TX-GOV-2026-10-21-activote-LV",
-        "TX-GOV-2026-10-26-yougov-blue-d-RV"
+        "TX-GOV-2026-10-25-texas-southern-university-LV",
+        "TX-GOV-2026-10-27-ssrs-LV",
+        "TX-GOV-2026-10-28-quantus-insights-r-LV"
       ]
     },
     "MI-SEN": {
       "status": "updated",
-      "polls": 46,
+      "polls": 49,
       "new": [
-        "MI-SEN-2026-10-27-mitchell-research-communications-LV"
+        "MI-SEN-2026-10-23-michigan-state-university-verasight-LV",
+        "MI-SEN-2026-10-27-ssrs-LV",
+        "MI-SEN-2026-10-28-upswing-research-d-LV"
       ]
     },
     "MI-GOV": {
       "status": "updated",
-      "polls": 27,
-      "new": []
+      "polls": 29,
+      "new": [
+        "MI-GOV-2026-10-27-mitchell-research-communications-LV",
+        "MI-GOV-2026-10-27-ssrs-LV"
+      ]
     },
     "AZ-GOV": {
       "status": "updated",
@@ -37,18 +47,16 @@
     },
     "FL-GOV": {
       "status": "updated",
-      "polls": 22,
+      "polls": 23,
       "new": [
-        "FL-GOV-2026-10-25-new-york-times-siena-university-LV",
-        "FL-GOV-2026-10-27-st-pete-polls-LV"
+        "FL-GOV-2026-10-22-workbench-strategy-d-LV"
       ]
     },
     "FL-SEN": {
       "status": "updated",
-      "polls": 22,
+      "polls": 23,
       "new": [
-        "FL-SEN-2026-10-25-new-york-times-siena-university-LV",
-        "FL-SEN-2026-10-27-st-pete-polls-LV"
+        "FL-SEN-2026-10-22-workbench-strategy-d-LV"
       ]
     }
   }
