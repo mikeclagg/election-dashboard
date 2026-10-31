@@ -1,63 +1,53 @@
 {
-  "polls_checked_at": "2026-10-30T16:18:52+00:00",
+  "polls_checked_at": "2026-10-31T15:31:35+00:00",
   "polls_source": "Wikipedia general-election polling tables (CC BY-SA 4.0)",
   "races": {
     "TX-SEN": {
       "status": "updated",
-      "polls": 54,
+      "polls": 56,
       "new": [
-        "TX-SEN-2026-10-15-cor-strategies-r-LV",
-        "TX-SEN-2026-10-25-texas-southern-university-LV",
-        "TX-SEN-2026-10-27-a2-insights-LV",
-        "TX-SEN-2026-10-27-ssrs-LV",
-        "TX-SEN-2026-10-28-activote-LV",
-        "TX-SEN-2026-10-28-quantus-insights-LV"
+        "TX-SEN-2026-10-26-data-for-progress-d-LV",
+        "TX-SEN-2026-10-30-kstrat-LV"
       ]
     },
     "TX-GOV": {
       "status": "updated",
-      "polls": 44,
+      "polls": 45,
       "new": [
-        "TX-GOV-2026-10-25-texas-southern-university-LV",
-        "TX-GOV-2026-10-27-ssrs-LV",
-        "TX-GOV-2026-10-28-quantus-insights-r-LV"
+        "TX-GOV-2026-10-30-kstrat-LV"
       ]
     },
     "MI-SEN": {
       "status": "updated",
-      "polls": 49,
+      "polls": 50,
       "new": [
-        "MI-SEN-2026-10-23-michigan-state-university-verasight-LV",
-        "MI-SEN-2026-10-27-ssrs-LV",
-        "MI-SEN-2026-10-28-upswing-research-d-LV"
+        "MI-SEN-2026-10-29-rasmussen-reports-r-LV"
       ]
     },
     "MI-GOV": {
       "status": "updated",
-      "polls": 29,
+      "polls": 30,
       "new": [
-        "MI-GOV-2026-10-27-mitchell-research-communications-LV",
-        "MI-GOV-2026-10-27-ssrs-LV"
+        "MI-GOV-2026-10-23-michigan-state-university-verasight-LV"
       ]
     },
     "AZ-GOV": {
       "status": "updated",
-      "polls": 16,
-      "new": []
+      "polls": 18,
+      "new": [
+        "AZ-GOV-2026-10-28-noble-predictive-insights-LV",
+        "AZ-GOV-2026-10-29-grayhouse-r-LV"
+      ]
     },
     "FL-GOV": {
       "status": "updated",
       "polls": 23,
-      "new": [
-        "FL-GOV-2026-10-22-workbench-strategy-d-LV"
-      ]
+      "new": []
     },
     "FL-SEN": {
       "status": "updated",
       "polls": 23,
-      "new": [
-        "FL-SEN-2026-10-22-workbench-strategy-d-LV"
-      ]
+      "new": []
     }
   }
 }
