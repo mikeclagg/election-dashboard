@@ -1,53 +1,64 @@
 {
-  "polls_checked_at": "2026-10-31T15:31:35+00:00",
+  "polls_checked_at": "2026-11-01T16:29:46+00:00",
   "polls_source": "Wikipedia general-election polling tables (CC BY-SA 4.0)",
   "races": {
     "TX-SEN": {
       "status": "updated",
       "polls": 56,
       "new": [
-        "TX-SEN-2026-10-26-data-for-progress-d-LV",
-        "TX-SEN-2026-10-30-kstrat-LV"
+        "TX-SEN-2026-10-30-kreate-strategies-LV"
       ]
     },
     "TX-GOV": {
       "status": "updated",
-      "polls": 45,
+      "polls": 47,
       "new": [
-        "TX-GOV-2026-10-30-kstrat-LV"
+        "TX-GOV-2026-10-21-activote-LV",
+        "TX-GOV-2026-10-26-data-for-progress-d-LV",
+        "TX-GOV-2026-10-30-kreate-strategies-LV"
       ]
     },
     "MI-SEN": {
       "status": "updated",
-      "polls": 50,
+      "polls": 51,
       "new": [
-        "MI-SEN-2026-10-29-rasmussen-reports-r-LV"
+        "MI-SEN-2026-10-25-data-for-progress-d-LV"
       ]
     },
     "MI-GOV": {
       "status": "updated",
-      "polls": 30,
+      "polls": 31,
       "new": [
-        "MI-GOV-2026-10-23-michigan-state-university-verasight-LV"
+        "MI-GOV-2026-10-25-data-for-progress-d-LV"
       ]
     },
     "AZ-GOV": {
       "status": "updated",
       "polls": 18,
-      "new": [
-        "AZ-GOV-2026-10-28-noble-predictive-insights-LV",
-        "AZ-GOV-2026-10-29-grayhouse-r-LV"
-      ]
+      "new": []
     },
     "FL-GOV": {
       "status": "updated",
-      "polls": 23,
-      "new": []
+      "polls": 29,
+      "new": [
+        "FL-GOV-2026-10-28-political-matrix-the-listener-group-LV",
+        "FL-GOV-2026-10-29-insideradvantage-r-LV",
+        "FL-GOV-2026-10-30-big-data-poll-LV",
+        "FL-GOV-2026-10-30-big-data-poll-RV",
+        "FL-GOV-2026-10-30-stetson-university-RV",
+        "FL-GOV-2026-10-31-activote-LV"
+      ]
     },
     "FL-SEN": {
       "status": "updated",
-      "polls": 23,
-      "new": []
+      "polls": 28,
+      "new": [
+        "FL-SEN-2026-10-28-political-matrix-the-listener-group-LV",
+        "FL-SEN-2026-10-29-insideradvantage-r-LV",
+        "FL-SEN-2026-10-30-big-data-poll-LV",
+        "FL-SEN-2026-10-30-big-data-poll-RV",
+        "FL-SEN-2026-10-30-stetson-university-RV"
+      ]
     }
   }
 }
