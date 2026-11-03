@@ -1,61 +1,66 @@
 {
-  "polls_checked_at": "2026-11-02T19:51:41+00:00",
+  "polls_checked_at": "2026-11-03T17:24:21+00:00",
   "polls_source": "Wikipedia general-election polling tables (CC BY-SA 4.0)",
   "races": {
     "TX-SEN": {
       "status": "updated",
-      "polls": 60,
+      "polls": 62,
       "new": [
-        "TX-SEN-2026-10-29-yougov-LV",
-        "TX-SEN-2026-11-01-atlasintel-A",
-        "TX-SEN-2026-11-01-new-york-times-siena-university-LV",
-        "TX-SEN-2026-11-01-trafalgar-group-r-LV"
+        "TX-SEN-2026-11-01-atlasintel-LV",
+        "TX-SEN-2026-11-01-emerson-college-LV",
+        "TX-SEN-2026-11-02-research-co-LV"
       ]
     },
     "TX-GOV": {
       "status": "updated",
-      "polls": 50,
+      "polls": 52,
       "new": [
-        "TX-GOV-2026-10-29-yougov-LV",
-        "TX-GOV-2026-11-01-atlasintel-A",
-        "TX-GOV-2026-11-01-new-york-times-siena-university-LV"
+        "TX-GOV-2026-11-01-atlasintel-LV",
+        "TX-GOV-2026-11-01-emerson-college-LV",
+        "TX-GOV-2026-11-02-research-co-LV"
       ]
     },
     "MI-SEN": {
       "status": "updated",
-      "polls": 54,
+      "polls": 58,
       "new": [
-        "MI-SEN-2026-10-29-yougov-LV",
-        "MI-SEN-2026-11-01-new-york-times-siena-university-LV",
-        "MI-SEN-2026-11-01-research-co-LV"
+        "MI-SEN-2026-11-01-atlasintel-LV",
+        "MI-SEN-2026-11-01-concord-public-opinion-partners-d-LV",
+        "MI-SEN-2026-11-01-emerson-college-LV",
+        "MI-SEN-2026-11-02-john-zogby-strategies-LV"
       ]
     },
     "MI-GOV": {
       "status": "updated",
-      "polls": 35,
+      "polls": 38,
       "new": [
-        "MI-GOV-2026-10-29-rasmussen-reports-r-LV",
-        "MI-GOV-2026-10-29-yougov-LV",
-        "MI-GOV-2026-11-01-new-york-times-siena-university-LV",
-        "MI-GOV-2026-11-01-research-co-LV"
+        "MI-GOV-2026-11-01-atlasintel-LV",
+        "MI-GOV-2026-11-01-concord-public-opinion-partners-d-LV",
+        "MI-GOV-2026-11-01-emerson-college-LV"
       ]
     },
     "AZ-GOV": {
       "status": "updated",
       "polls": 19,
-      "new": [
-        "AZ-GOV-2026-09-30-lake-research-partners-d-RV"
-      ]
+      "new": []
     },
     "FL-GOV": {
       "status": "updated",
-      "polls": 29,
-      "new": []
+      "polls": 32,
+      "new": [
+        "FL-GOV-2026-10-29-targoz-market-research-LV",
+        "FL-GOV-2026-10-31-redbox-research-d-LV",
+        "FL-GOV-2026-11-02-research-co-LV"
+      ]
     },
     "FL-SEN": {
       "status": "updated",
-      "polls": 28,
-      "new": []
+      "polls": 31,
+      "new": [
+        "FL-SEN-2026-10-29-targoz-market-research-LV",
+        "FL-SEN-2026-10-31-redbox-research-d-LV",
+        "FL-SEN-2026-11-02-research-co-LV"
+      ]
     }
   }
 }
