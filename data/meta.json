@@ -1,43 +1,28 @@
 {
-  "polls_checked_at": "2026-11-03T17:24:21+00:00",
+  "polls_checked_at": "2026-11-04T17:37:36+00:00",
   "polls_source": "Wikipedia general-election polling tables (CC BY-SA 4.0)",
   "races": {
     "TX-SEN": {
       "status": "updated",
       "polls": 62,
-      "new": [
-        "TX-SEN-2026-11-01-atlasintel-LV",
-        "TX-SEN-2026-11-01-emerson-college-LV",
-        "TX-SEN-2026-11-02-research-co-LV"
-      ]
+      "new": []
     },
     "TX-GOV": {
       "status": "updated",
       "polls": 52,
-      "new": [
-        "TX-GOV-2026-11-01-atlasintel-LV",
-        "TX-GOV-2026-11-01-emerson-college-LV",
-        "TX-GOV-2026-11-02-research-co-LV"
-      ]
+      "new": []
     },
     "MI-SEN": {
       "status": "updated",
-      "polls": 58,
+      "polls": 59,
       "new": [
-        "MI-SEN-2026-11-01-atlasintel-LV",
-        "MI-SEN-2026-11-01-concord-public-opinion-partners-d-LV",
-        "MI-SEN-2026-11-01-emerson-college-LV",
-        "MI-SEN-2026-11-02-john-zogby-strategies-LV"
+        "MI-SEN-2026-11-01-trafalgar-group-r-LV"
       ]
     },
     "MI-GOV": {
       "status": "updated",
       "polls": 38,
-      "new": [
-        "MI-GOV-2026-11-01-atlasintel-LV",
-        "MI-GOV-2026-11-01-concord-public-opinion-partners-d-LV",
-        "MI-GOV-2026-11-01-emerson-college-LV"
-      ]
+      "new": []
     },
     "AZ-GOV": {
       "status": "updated",
@@ -47,20 +32,12 @@
     "FL-GOV": {
       "status": "updated",
       "polls": 32,
-      "new": [
-        "FL-GOV-2026-10-29-targoz-market-research-LV",
-        "FL-GOV-2026-10-31-redbox-research-d-LV",
-        "FL-GOV-2026-11-02-research-co-LV"
-      ]
+      "new": []
     },
     "FL-SEN": {
       "status": "updated",
       "polls": 31,
-      "new": [
-        "FL-SEN-2026-10-29-targoz-market-research-LV",
-        "FL-SEN-2026-10-31-redbox-research-d-LV",
-        "FL-SEN-2026-11-02-research-co-LV"
-      ]
+      "new": []
     }
   }
 }
