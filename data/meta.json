@@ -1,5 +1,5 @@
 {
-  "polls_checked_at": "2026-11-04T17:37:36+00:00",
+  "polls_checked_at": "2026-11-05T17:42:48+00:00",
   "polls_source": "Wikipedia general-election polling tables (CC BY-SA 4.0)",
   "races": {
     "TX-SEN": {
@@ -15,9 +15,7 @@
     "MI-SEN": {
       "status": "updated",
       "polls": 59,
-      "new": [
-        "MI-SEN-2026-11-01-trafalgar-group-r-LV"
-      ]
+      "new": []
     },
     "MI-GOV": {
       "status": "updated",
